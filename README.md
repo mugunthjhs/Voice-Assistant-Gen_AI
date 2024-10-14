@@ -26,25 +26,6 @@
 - **Customizable Settings**: 
    - Users can enter their OpenAI API key directly into the application, allowing for easy customization and management of API usage. This feature empowers users to control their interactions with the AI.
 
-## Example Output
-
-### Application Interface
-
-The following image showcases the application interface where users can interact with the voice assistant:
-
-![Application Interface](link-to-output-image) <!-- Replace with the path to your output image -->
-
-### Video Demonstration
-
-Here is a video demonstration of CERSEI in action, showcasing its functionality and user experience:
-
-[Watch the Video Demonstration](link-to-video) <!-- Replace with the link to your video demonstration -->
-
-In this demonstration, you will see how users can initiate a recording, view the transcribed text, and listen to the AI's audio responses, all while enjoying a responsive and visually appealing layout.
-
-## User Experience
-
-CERSEI aims to provide a seamless user experience, where interaction feels natural and engaging. The voice assistant is designed for anyone looking to enhance their daily tasks with voice commands, whether it be students seeking answers to questions, professionals needing quick information, or anyone looking to explore the capabilities of AI through conversation.
 
 ### How to Use CERSEI
 
