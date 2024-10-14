@@ -2,3 +2,6 @@ openai==1.51.2
 streamlit==1.23.0
 audio-recorder-streamlit==0.0.10
 pip==24.2
+streamlit==1.20.0
+pillow==9.3.0
+numpy>=1.21.0
