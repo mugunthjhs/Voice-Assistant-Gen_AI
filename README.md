@@ -2,7 +2,7 @@
 
 [![Voice Assistant Output](https://github.com/user-attachments/assets/4195ee7f-c0b9-456c-bbeb-42da0799b661)](https://github.com/user-attachments/assets/4195ee7f-c0b9-456c-bbeb-42da0799b661)
 
-![CERSEI Voice Assistant](https://github.com/mugunthjhs/Voice-Assistant-_Gen-AI/blob/main/output_image.png) <!-- Replace with the path to your output image -->
+![CERSEI Voice Assistant](https://github.com/mugunthjhs/Voice-Assistant-_Gen-AI/blob/main/output_image.png)
 
 ## Introduction
 
